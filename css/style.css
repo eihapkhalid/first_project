@@ -1,0 +1,145 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	background-color:#f5f5f0;
+}
+
+
+.menu{
+	 width: auto;
+	/* border: 5px solid red;*/
+	 padding:20px 135px 20px 220px;
+     background-color:#6666ff;
+}
+
+
+
+.menu li{
+display:inline;
+list-style-type:none;
+   
+ 
+}
+.menu a{
+
+
+   	color:#fff;
+	text-decoration: none;
+	font-size:14px;
+	padding-right:20px;
+}
+
+.midx{
+	margin-top: 30px;
+	margin-left: 200px;
+	 width: 1000px;
+	 height: 1000px;
+	 /*border: 5px solid green;*/
+	 padding:0;
+     background-color:#fff;
+}
+
+.midx h1{
+		color:#333;
+	font-size:50px;
+	line-height: 1.5em;
+
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+
+.Myform{
+	padding:30px;
+}
+.Myform .form-group{
+	padding-bottom:50px;
+}
+
+.form-group a{
+text-decoration: none;
+}
+
+.Myform input[type="text"], input[type="password"], input[type="email"]{
+	padding:8px;
+	width:25%;
+	/*position:relative;
+	top: 10px;
+	left: 100px;
+	*/
+}
+.n1{
+	position:relative;
+	top: 5px;
+	left: 100px;
+}
+
+.n2{
+	position:relative;
+	top: 5px;
+	left: 104px;
+}
+
+.n3{
+	position:relative;
+	top: 5px;
+	left: 133px;
+}
+
+.n4{
+	position:relative;
+	top: 5px;
+	left: 112px;
+}
+
+.n5{
+	position:relative;
+	top: 5px;
+	left: 76px;
+}
+
+.n6{
+	position:relative;
+	top: 5px;
+	left: 120px;
+}
+.n7{
+	position:relative;
+	top: 5px;
+	left: 68px;
+}
+
+.n9{
+	background-color: #6666ff;
+	width: 200px;
+	height: 45px;
+	position:relative;
+	top: 5px;
+	left: 183px;
+	color: #fff;
+  padding: 16px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+.n8{
+color: 	#d9d9f2;
+	position:relative;
+	top: 5px;
+	left: 183px;
+}
+.n10{
+color: 	#6666ff;
+	position:relative;
+	top: 5px;
+	left: 183px;
+}
+
+.n9:hover {
+  background-color: #0000cc;
+ 
+}
